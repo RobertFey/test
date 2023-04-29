@@ -1,5 +1,5 @@
 def main():
-    pass
+    print(locals())
 
 
 if __name__ == "__main__":
