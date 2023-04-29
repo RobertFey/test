@@ -1,4 +1,5 @@
 def main():
+    test_this = True
     print(locals())
 
 
